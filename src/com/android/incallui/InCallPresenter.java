@@ -835,7 +835,7 @@ public class InCallPresenter implements CallList.Listener {
     }
 
     /**
-     * Starts the incoming call Ui immediately used by the incoming call
+  * Starts the incoming call Ui immediately used by the incoming call
      * notification sent from framework's notification mechanism
      */
     public void startIncomingCallUi() {
